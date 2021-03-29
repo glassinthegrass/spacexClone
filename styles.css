@@ -8,7 +8,7 @@ html {
 
   #Hamburger_icon{
     height:1.5vw;
-    margin-left:-20px
+    margin-left:-10px
 
   }
 
@@ -49,9 +49,6 @@ nav{
 }
 
 #shop{
-    display: ;
-    align-content: center;
-    text-align: center;
     margin: auto;
 }
 
