@@ -1,0 +1,90 @@
+html { 
+    background: url(./HP_SN11_Vertical_20210311_IMG_01221.webp) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  #Hamburger_icon{
+    height:1.5vw;
+    margin-left:-20px
+
+  }
+
+  
+  a{
+      margin:30px;
+      float: left
+  }
+
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height:10vh;
+    color:whitesmoke
+}
+#spacex_logo{
+    width: 15vw;
+}
+
+nav{
+    width: 60vw;
+    margin:5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 3vw;
+    }
+#shop_menu{
+    margin-right:40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    align-items: center;
+    width: 6vw;
+    text-align: center;
+    margin-right: 3vw;
+}
+
+#shop{
+    display: ;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+section{
+    color:whitesmoke;
+    width:40vw;
+    height: fit-content;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    float:right
+}
+
+#div{
+    height:45vh;
+}
+
+.button {
+    -webkit-appearance: button;
+	-moz-appearance: button;
+	appearance: button;
+    width:5vw;
+        background-color: #cecfce33; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+  }
+  
+  .button:hover {
+    background: #c37d64;
+    color: white;
+  }
